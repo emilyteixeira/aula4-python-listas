@@ -1,14 +1,18 @@
-# Aula 4: Python - Listas
+# Aula 4: Python - Listas e Tuplas
 
-Este repositório contém o material da quarta aula do curso de Python, focada no uso de listas.
+Este repositório contém o material da quarta aula do curso de Python do Empower Full Stack da Escola Vai na Web, focada no uso de listas e tuplas.
 
 ## Conteúdo
 
 - Introdução às listas
 - Operações com listas
 - Métodos de listas
-- Listas aninhadas
-- Exemplos práticos
+- Exemplos
+- Introdução às tuplas
+- Operações com tuplas
+- Tuplas aninhadas
+- Exemplos
+- Introdução aos vetores
 
 ## Pré-requisitos
 
